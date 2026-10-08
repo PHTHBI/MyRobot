@@ -69,8 +69,9 @@ If you already have Git and uv installed procede to Step 2.
 ```
 cd <Insert folder path you wish to clone folder into>
 git clone https://gitlab.gbar.dtu.dk/Courses/34753.git
-cd 34753\DynamixelSDK\Python
+cd MyRobot\DynamixelSDK\Python
 pip install . 
+uv add ..\python\
 ```
 
 <br>
