@@ -31,10 +31,11 @@ The **Robot CAD Files/** folder contains 3D models for the 4DOF robot arm. These
 ## 🎥 Video Tutorials for Robot Setup (Python)
 
 ### Step 1 - Install Git and uv
-[Link for Git installation](https://git-scm.com/install/) \
+[Link for Git installation](https://git-scm.com/install/) 
 
-UV installation: 
+## UV installation: 
 Windows: 
+
 ```
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
