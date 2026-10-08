@@ -68,7 +68,7 @@ If you already have Git and uv installed procede to Step 2.
 #### The cmd line for downloading and installing library onto computer
 ```
 cd <Insert folder path you wish to clone folder into>
-git clone https://gitlab.gbar.dtu.dk/Courses/34753.git
+git clone https://github.com/PHTHBI/MyRobot.git
 cd MyRobot\DynamixelSDK\Python
 pip install . 
 uv add ..\python\
